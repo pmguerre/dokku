@@ -93,7 +93,7 @@ const config = {
         items: [
           {
             href: 'https://www.ualg.pt/', label: 'UALG', position: 'right',
-          }
+          },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
